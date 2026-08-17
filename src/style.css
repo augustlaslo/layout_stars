@@ -1,5 +1,10 @@
+body {
+  margin: 0;
+}
+
 .stars {
   display: flex;
+  width: fit-content;
   margin: 0;
   padding: 0;
   list-style: none;
